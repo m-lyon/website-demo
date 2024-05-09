@@ -7,7 +7,7 @@ page-level: homepage
 
 <section>
 	<header class="major">
-		<h2>Latest Blog Posts and Projects</h2>
+		<h2>My Website</h2>
 	</header>
 	<div class="posts">
 		<article>
